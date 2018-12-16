@@ -7,3 +7,6 @@
 ## Deployment
 
 ## How to Contribute
+
+### Copyright
+Eric Apt
